@@ -1,4 +1,4 @@
-# Simple ATM program without functions
+
 
 accounts = {
     "1234567890": {"pin": "1234", "balance": 5000},
